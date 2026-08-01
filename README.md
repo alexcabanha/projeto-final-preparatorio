@@ -81,17 +81,17 @@ projeto-final-preparatorio/
 
 ---
 
-## Volume Persistente
+# Volume Persistente
 
 ```
 mysql_data
 ```
 
-Responsável por manter os dados do MySQL mesmo após reiniciar os containers.
+Aqui mantem os dados do MySQL mesmo após reiniciar os containers.
 
 ---
 
-## Variáveis de Ambiente
+# Variáveis de Ambiente
 
 Copie o arquivo:
 
@@ -109,7 +109,7 @@ e ajuste as variáveis conforme necessário.
 
 ---
 
-## Como executar
+# Como executar
 
 Construir as imagens
 
@@ -137,7 +137,7 @@ docker compose down
 
 ---
 
-## URLs
+# URLs
 
 Frontend
 
@@ -177,7 +177,7 @@ http://localhost:8080/api/db-check
 
 ---
 
-## Funcionalidades
+# Funcionalidades
 
 - Docker Compose
 - Redes Docker
@@ -192,6 +192,6 @@ http://localhost:8080/api/db-check
 
 ---
 
-## Autor
+# Autor
 
 Desenvolvido por **Alex Cabanha =) **.
