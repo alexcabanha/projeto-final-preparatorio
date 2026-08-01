@@ -1,6 +1,6 @@
 # Projeto Final Preparatório - Docker Compose Senac MS
 
-Projeto desenvolvido como preparação para o Projeto Final da disciplina de Docker Compose.
+Projeto desenvolvido como preparação para o Projeto Final da disciplina de Docker Compose ministrada pelo Prof Felipe.
 
 O objetivo é demonstrar a criação de uma aplicação composta por múltiplos serviços utilizando Docker Compose, MySQL, FastAPI, PHP e Nginx.
 
